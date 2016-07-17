@@ -1,6 +1,6 @@
 {
     "name": "ptd/routing",
-    "version": "0.1.0",
+    "version": "0.0.1",
     "description": "A quick flexible routing layer",
     "keywords": ["routing", "object mapper"],
     "license": "MIT",
