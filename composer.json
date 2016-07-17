@@ -1,0 +1,16 @@
+{
+    "name": "ptd/routing",
+    "version": "0.1.0",
+    "description": "A quick flexible routing layer",
+    "keywords": ["routing", "object mapper"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Brent Schneider",
+            "email": "puddletowndesign@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3"
+    }
+}
